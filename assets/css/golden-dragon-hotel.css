@@ -1,0 +1,129 @@
+
+.body-bg {
+	background-color: gold;
+}
+
+.navbar{
+	height: 15vh;
+	background-color: black;
+	color: gold;
+
+}
+
+
+#co-name-custom{
+	color: gold;
+	font-size: 3em;
+}
+
+.nav-text-custom{
+	color: gold;
+	font-size: 1.3em;
+}
+
+.nav-text-custom:hover{
+	color: orange;
+	
+	
+}
+
+
+
+/* #active-page{
+	background-color: gold;
+	color: black;
+	font-weight: bold;
+} */
+.container-fluid{
+	margin: 1% 0;
+}
+
+.carousel-img-custom {
+	max-height: 75vh;
+}
+
+.btn-custom{
+	background-color: gold;
+	color: black;
+}
+
+.promo-div-custom{
+	margin: 2% 0;
+}
+
+.free-bg-custom{
+	background-color: black;
+	color: gold;
+	margin-bottom: 0;
+}
+.promo-content-custom{
+	width: 95%;
+	border: 1px black solid;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: 0 0 5% 0;
+
+}
+
+.promo-img-custom{
+	height: 200px;
+	width: 100%;
+	margin-top: 0;
+
+}
+
+#promo-description-justify{
+	text-align: justify;
+	padding: 0 5%;
+	margin-top: 2%;
+
+}
+footer{
+
+	height: 10vh;
+	background-color: black;
+	color: gold;
+	text-align: center;
+}
+
+/*Gallery Styles*/
+
+#container-fluid-gallery{
+	margin-top: 
+
+}
+
+.gallery-head{
+	border: 5px solid black;
+	margin-bottom: 1%;
+
+}
+
+
+/*Contact Us Styles*/
+
+.contact-head{
+	margin-bottom: 2%; 
+}
+.map-wrapper{
+	/* border: 2px solid black;
+	padding: 1% 2%;
+	margin-left: 1%;
+	background-color: black */
+
+}
+
+.contact-details-container{
+	margin-top: 5%;
+	color: black;
+	margin-bottom: 5%; 
+}
+
+
+.form-border{
+	border: 2px solid black;
+	padding:2%;
+
+}
+
