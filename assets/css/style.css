@@ -282,7 +282,7 @@ body{
 }
 
 .projectsimgdiv{
-	background-color:black;
+	background-color:#2e1b30;
 	height:150px;
 	padding-top:20px;
 }
@@ -292,14 +292,14 @@ body{
 }
 
 .projectstitle{
-	background-color:black;
+	background-color:#2e1b30;
 	margin-bottom:0;
 	height:40px;
 }
 
 .projectstext{
 	margin-top:0;
-	background-color:black;
+	background-color:#2e1b30;
 	color:gold;
 	padding:20px;
 	height:175px;
@@ -329,6 +329,8 @@ hr{
 
 #container4{
 	color:gold;
+    padding-top: 5%;
+
 
 }
 
@@ -339,3 +341,7 @@ hr{
 #disclaimer{
 	margin-top:25%;
 }
+
+/* contact us */
+
+
